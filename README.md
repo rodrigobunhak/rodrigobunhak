@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo Bunhak!</h1>
 
-<img align="right" width="390em" height="280em" src="https://user-images.githubusercontent.com/61331457/152787631-f8dab946-82e8-4b31-a9d3-fd4764e1e19d.svg" />
+<img align="right" width="390em" height="280em" src="https://user-images.githubusercontent.com/61331457/152841187-544b88c6-9a84-426c-b583-54e5d9f4b5de.svg" />
 
 [![Twitter Badge](https://img.shields.io/badge/-@rodrigobunhak-1f5aad?style=flat-square&labelColor=1f5aad&logo=twitter&logoColor=white&link=https://twitter.com/rodrigobunhak)](https://twitter.com/rodrigobunhak)
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Bunhak-1f5aad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bunhak/)](https://www.linkedin.com/in/rodrigo-bunhak/) 
