@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo Bunhak!</h1>
+<h1 align="left">Hi, I'm Rodrigo Bunhak!</h1>
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@rodrigobunhak-1f5aad?style=flat-square&labelColor=1f5aad&logo=twitter&logoColor=white&link=https://twitter.com/rodrigobunhak)](https://twitter.com/rodrigobunhak)
