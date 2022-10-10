@@ -11,5 +11,5 @@
 
 
 
-Programming student & web tools enthusiast. </br>
- - 💻 I’m currently learning **JavaScript, TypeScript, ReactJS**
+Software engineer at Grupo Services & web tools enthusiast. </br>
+ - 💻 I’m currently learning **TypeScript and NestJS**
