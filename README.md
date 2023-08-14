@@ -12,4 +12,5 @@
 
 
 Software engineer at Grupo Services & web tools enthusiast. </br>
- - 💻 I’m currently learning **TypeScript and NestJS**
+ - 💻 I’m workign with **TypeScript and NestJS**
+ - **Rust and Python** enthusiast
