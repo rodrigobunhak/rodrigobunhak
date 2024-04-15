@@ -11,6 +11,5 @@
 
 
 
-Software engineer at Grupo Services & web tools enthusiast. </br>
+Software engineer at Concentrix Brazil. </br>
  - 💻 I’m workign with **TypeScript and NestJS**
- - **Rust and Python** enthusiast
