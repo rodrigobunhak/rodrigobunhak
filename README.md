@@ -11,5 +11,7 @@
 
 
 
-Software engineer at Concentrix Brazil. </br>
- - 💻 I’m workign with **TypeScript and NestJS**
+Software Engineer at Concentrix Brazil. </br>
+💻 Especializado em **TypeScript** e **NestJS**
+🦀 Estudando **Rust**
+🔧 Com experiência em **PHP**, **Docker**, e **Google Cloud Platform**
