@@ -12,6 +12,6 @@
 
 
 Software Engineer at Concentrix Brazil. </br>
-💻 Especializado em **TypeScript** e **NestJS**
-🦀 Estudando **Rust**
-🔧 Com experiência em **PHP**, **Docker**, e **Google Cloud Platform**
+💻 Especializado em **TypeScript** e **NestJS** </br>
+🦀 Estudando **Rust** </br>
+🔧 Com experiência em **PHP**, **Docker**, e **Google Cloud Platform** </br>
