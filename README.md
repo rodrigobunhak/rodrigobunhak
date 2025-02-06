@@ -11,5 +11,5 @@
 
 Software Engineer at Concentrix Brazil. </br>
 💻 Specializing in **TypeScript** and **NestJS** </br>
-🦀 Studying **Rust** </br>
+Studying **Go** </br>
 🔧 Experienced in **PHP**, **Docker**, and **Google Cloud Platform** </br>
